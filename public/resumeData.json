@@ -1,0 +1,113 @@
+{
+  "about": {
+    "image": "james.jpg",
+    "freelance": [
+      {
+        "website": "",
+        "image": "fiverr.png",
+        "title": "Visit my Fiverr page!"
+      },
+      {
+        "website": "",
+        "image": "freelancer.png",
+        "title": "Visit my Freelancer page!"
+      },
+      {
+        "website": "",
+        "image": "upwork.png",
+        "title": "Visit my Upwork page!"
+      }
+    ]
+  },
+  "resume": {
+    "clouds": ["mist-1.png", "cloud-2.png", "mist-2.png", "cloud-3.png"],
+    "skills": [
+      {
+        "name": "HTML5",
+        "image": "html5.svg",
+        "title": "HTML5",
+        "description": ""
+      },
+      {
+        "name": "CSS3",
+        "image": "css3.svg",
+        "title": "CSS3",
+        "description": ""
+      },
+      {
+        "name": "Javascript",
+        "image": "javascript.svg",
+        "title": "Javascript",
+        "description": ""
+      },
+      {
+        "name": "ReactJs",
+        "image": "react.svg",
+        "title": "ReactJs",
+        "description": ""
+      },
+      {
+        "name": "Git",
+        "image": "github.svg",
+        "title": "Git",
+        "description": ""
+      },
+      {
+        "name": "MongoDB",
+        "image": "mongodb.svg",
+        "title": "MongoDB",
+        "description": ""
+      },
+      {
+        "name": "Java",
+        "image": "java.svg",
+        "title": "Java",
+        "description": ""
+      },
+      {
+        "name": "Figma",
+        "image": "figma.svg",
+        "title": "Figma",
+        "description": ""
+      },
+      {
+        "name": "Wordpress",
+        "image": "wordpress.svg",
+        "title": "Wordpress",
+        "description": ""
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ecommerce Store | Amazon ReactJS Clone",
+        "category": "Amazon clone built with ReactJs - Implements User Authentication + Stripe payment",
+        "image": "amazon-project.png",
+        "url": "",
+        "code": "https://github.com/jamesindeed/ecommerce-store.git"
+      },
+      {
+        "title": "Social Media | Instagram ReactJS Clone",
+        "category": "Instagram clone built with ReactJS - Implements User Authentication + Ability to post photos with captions + Ability to comment",
+        "image": "instagram-project.png",
+        "url": "",
+        "code": "https://github.com/jamesindeed/instagram-project.git"
+      },
+      {
+        "title": "James Troughton | Front-End Web Developer",
+        "category": "This website, my personal portfolio",
+        "image": "portfolio-project.png",
+        "url": "",
+        "code": ""
+      },
+      {
+        "title": "Coming Soon...",
+        "category": "",
+        "image": "grey.png",
+        "url": "",
+        "code": ""
+      }
+    ]
+  }
+}
