@@ -48,10 +48,8 @@ function Footer() {
           </ul>
 
           <ul className="footer__copyright">
-            <li>Modified with love by James Troughton ♥️</li>
             <li>
-              © All credit goes to Tim Baker - Copyright 2017 Tim BakerDesign by
-              Styleshout
+              <span>©</span> James Troughton 2020
             </li>
           </ul>
         </div>

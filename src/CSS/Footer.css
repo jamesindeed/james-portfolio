@@ -53,7 +53,7 @@
 .footer__goToTop:hover {
   transform: scale(1.05) translate(-50%, -50%);
   transform-origin: center center;
-  background-color:#21ac90;
+  background-color: #21ac90;
 }
 .footer__goToTop:hover .MuiSvgIcon-root {
   color: #eee;

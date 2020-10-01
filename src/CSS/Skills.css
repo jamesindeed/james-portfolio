@@ -49,8 +49,8 @@
   align-items: center;
 }
 .img-skill img {
-  max-height: 150px;
-  min-height: 150px;
+  max-height: 120px;
+  min-height: 120px;
   object-fit: cover;
   transition: 0.5s ease-in-out;
 }
