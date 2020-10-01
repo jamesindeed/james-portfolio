@@ -91,15 +91,15 @@
         "title": "Social Media | Instagram ReactJS Clone",
         "category": "Instagram clone built with ReactJS - Implements User Authentication + Ability to post photos with captions + Ability to comment",
         "image": "instagram-project.png",
-        "url": "",
+        "url": "https://instagram-project-b00b7.web.app/",
         "code": "https://github.com/jamesindeed/instagram-project.git"
       },
       {
         "title": "James Troughton | Front-End Web Developer",
         "category": "This website, my personal portfolio",
         "image": "portfolio-project.png",
-        "url": "",
-        "code": ""
+        "url": "jamestroughton.netlify.app",
+        "code": "https://github.com/jamesindeed/james-portfolio.git"
       },
       {
         "title": "Coming Soon...",

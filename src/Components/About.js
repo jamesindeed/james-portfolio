@@ -27,10 +27,12 @@ function About({ data }) {
         <div className="about__contact nine column">
           <h2>About Me</h2>
           <p>
-            I am a Full Stack Developer predominantly in ReactJS. I am currently
-            studying online at Bethel School of Technology while also
-            freelancing. I have a passion for design so I have been self
-            teaching UI/UX Design on the side.{" "}
+            I am a creative and determined web developer with a strong eye for
+            innovative design. I specialize in customer satisfaction through
+            teamwork and maintaining a commitment to exceed expectations. I
+            actively pursue opportunities to provide programming skills,
+            leadership abilities, and enthusiasm to a fast-paced environment as
+            a web developer.{" "}
           </p>
           <div className="about__contacts row">
             <div className="about__contactDetails column">
@@ -41,9 +43,11 @@ function About({ data }) {
                 <span>Auckland, New Zealand, 0620</span>
                 <br />
                 <span>+61 21 681 998</span>
-                <br/>
+                <br />
                 <span>
-                  <a href="mailto:jamesstroughton@gmail.com">jamesstroughton@gmail.com</a>
+                  <a href="mailto:jamesstroughton@gmail.com">
+                    jamesstroughton@gmail.com
+                  </a>
                 </span>
               </p>
             </div>
